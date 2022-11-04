@@ -1,0 +1,71 @@
+Here are some good Resources
+
+#1 C/C++ -> These are an excellent choice for first language as these tells us about how behind the scenes
+             computer are working. What a languge is doing? How it is processing the data?
+             What is the flow of your program?
+
+            C/C++ are the fastest language out there but the learning curve is quite low. You need to spend
+            a good amount of time to these language for getting a some output from it.
+
+        Some facts about the language ->
+                     #1 C++ is used for game developement
+                     #2  kernels (helps to communicate between software and hardware) is written in C.
+                     #3 Any software that requires high graphics usage is 90% C and C++(like your autocad, blender, and much more)
+                     #5 Operating systems is made using C/C++
+                     #6 Tensorflow(a machine learning library made by the google) is written in C++.
+
+        Resources -> #1 https://www.codesdope.com/cpp-introduction/ = A good website that makes you learn the learn
+                        the language efficienty. Beginners will gain a lot from this.
+
+                    #2 For learning the inbuilt data structures present in the STL(standard template library) geeksforgeeks.org is good
+                        Just google "data type gfg" like "unordered_map gfg" https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
+                   
+                    #3 To learn the advance C++ https://www.udemy.com/course/the-modern-cpp-20-masterclass/ .
+                       This is paid but remember "Programming is free".
+                   
+                    #4 For specific topics like pointers https://www.youtube.com/watch?v=zuegQmMdy8M is one of the best. But watch it with
+                        full concentration.
+                        
+#2 Python -> A very simple but enormously powerfull language. From building Machine Learning models to automating your daily taks Python
+             got your back. The only limitation of python is that it is REAL SLOW.
+            
+            Resources ->
+                        #1 Python Documentation -> It is very well written keeping beginners in mind. https://docs.python.org/3/tutorial/
+                        #2 Codesdope -> It took you from the ground and familarize you with the language very quickly. And then you can move 
+                            to learn about each aspect of the language in details.
+                        #3 Geeksforgeeks  https://www.geeksforgeeks.org/python-programming-language/
+
+
+#3 Machine Learning -> First we need have a good knowledge of mathematics like(probability, stats, linear algebra and some calculus). Because 
+                       machine learning without mathematics is just remebering code. Of course your model will work, but you will never know 
+                       why some particular concepts are used in at some situation(like OneHotEncoding in case of categorial data).
+                    
+                    Resource -> I love the Micromasters course of MIT at edx.org. It is the best in place. Don't buy any course from
+                                udemy because you will only remember code and it will be quite a burden.
+                                https://www.edx.org/micromasters/mitx-statistics-and-data-science
+                                It's free for viewing but to get certificate you have a spend a lot of money, a lot of money.
+
+
+#4 competitive Programming ->
+                    #1 https://cp-algorithms.com/
+                    #2 https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/
+                    #3 shorturl.at/gADI4 (A handbook for competitive programmer)
+Other advice:
+
+        1) As a programmer you need to very fluent at keyboard.
+            You need to have a good typing speed(50- 60).
+            You can learn to type at typing.com and practice at monkeytype.com. Both are free.
+
+        2) Dont' use an IDE in your initial stage. "The IDE will only fascinate you". Prefer using text editor like vscode, sublime text.
+            And If you are really good at keybaord prefer(VIM -> it is only controlled by keyboard).
+        
+
+    
+The complete resources is in our OPEN community. We will share the link with joinee very soon.
+
+Void Space {A place of no return;}
+    Pradumn Kumar(B.Tech 2020)
+    Kushagra Verma(B.Tech 2020)
+
+WE KNOW OUR THINGS.
+

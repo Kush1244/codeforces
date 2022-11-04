@@ -1,0 +1,13 @@
+geom_orientation -> Finds the orientation of 3 points i.e., clockwise, linear or anticlockwise
+
+extended_euclid -> Finds the solution of equation ax + by = gcd(a, b). Gives the values of x and y along with gcd(a, b)
+
+
+
+gcd_loop -> finds gcd of a and b using loop
+
+
+binpowmod -> finds (a ^ b) % m (works in O(logn) time)
+
+is_square_bool -> checks whether a number is perfect square or not using binary search
+

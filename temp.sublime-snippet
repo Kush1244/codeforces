@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+vector<long long> trial_division1(long long n) {
+    vector<long long> factorization;
+    for (long long d = 2; d * d <= n; d++) {
+        while (n % d == 0) {
+            factorization.push_back(d);
+            n /= d;
+        }
+    }
+    if (n > 1) {
+    	factorization.push_back(n);
+    } 
+    return factorization;
+}
+]]></content>
+  <tabTrigger>tdivision1</tabTrigger>
+  <description>trial division</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>
